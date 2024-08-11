@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691768197 source:c:\users\migue\documents\documentos\area 51\programação\banco de dados\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
